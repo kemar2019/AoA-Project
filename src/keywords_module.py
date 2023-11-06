@@ -1,6 +1,7 @@
 
 keywords_dict = {
     "What is the Big O efficiency of Dijkstra’s algorithm if we use a min-priority queue data structure to implement it?": ["O(V + E log V)", "O(v^2)", "quadratic", "linear"],
+    "What is the capital of Jamaica?":["Kingston","kingston"],
     # Add more questions and keywords as needed
 }
 

@@ -3,7 +3,7 @@ import re
 
 def parse_chat_log(chat_log):
     participants = {}
-    tutor_name = 'Dr Arnett Campbell'  # Assuming this is the tutor's name
+    tutor_name = 'Mikhail McDowell'  # Assuming this is the tutor's name
     tutor_questions = []
     last_speaker = None  # Variable to keep track of the last speaker
 
